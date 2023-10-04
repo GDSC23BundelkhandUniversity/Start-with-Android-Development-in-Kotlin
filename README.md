@@ -2,16 +2,16 @@
 ### ✨On the 3rd of October, the Google Developer Student Club_BU community gathered for an enlightening session that promised to transform our perspectives on Android development. We were privileged to host the 🌟distinguished speaker,[Sachin saxena](https://github.com/ytsaxena), whose industry experience served as a guiding light for all of us, from beginners to advanced enthusiasts.
 ### Check out Youtube Channel of🎗️[Sachin saxena](https://github.com/ytsaxena) - [Youtube](https://www.youtube.com/@ITwalebhaiya)
 
-Please Find the PPT from Above (BUevent PPT) , also if you need help in the asssignment you can watch the Assignment video
+Please Find the PPT from Above [BUevent PPT](https://drive.google.com/drive/folders/1F0gq6CFcOiXqkhktxxH7Wbg8OF43liqN?usp=sharing) , also if you need help in the asssignment you can watch the Assignment video
 
 
-Kotlin Doc :  https://kotlinlang.org/docs/kotlin-tour-hello-world.html
+### Kotlin Doc :  https://kotlinlang.org/docs/kotlin-tour-hello-world.html
 
-Kotlin (Cheezy Code) : https://www.youtube.com/watch?v=NosAkIKgA4Y&list=PLRKyZvuMYSIMW3-rSOGCkPlO1z_IYJy3G
+### Kotlin (Cheezy Code) : https://www.youtube.com/watch?v=NosAkIKgA4Y&list=PLRKyZvuMYSIMW3-rSOGCkPlO1z_IYJy3G
 
-Kotlin and Setup Android Studio :  https://www.youtube.com/playlist?list=PL8mmlU1K4lucGWnp6LuK7gJs_Kq_qvsik
+### Kotlin and Setup Android Studio :  https://www.youtube.com/playlist?list=PL8mmlU1K4lucGWnp6LuK7gJs_Kq_qvsik
 
-Android Development Full Course 41 hrs :  https://www.youtube.com/watch?v=u64gyCdqawU 
+### Android Development Full Course 41 hrs :  https://www.youtube.com/watch?v=u64gyCdqawU 
 
 
 Assignment to Do :
@@ -20,12 +20,12 @@ Assignment to Do :
 
 
 
-Socials (Connect with me)
+## Socials (Connect with me)
 
-Linkedin : https://www.linkedin.com/in/ytsaxena/
-Youtube : https://www.youtube.com/@itwalebhaiya
-Twiiter : https://twitter.com/Sachins69358685
-Instagram : https://www.instagram.com/ytsaxena/
+### Linkedin : https://www.linkedin.com/in/ytsaxena/
+### Youtube : https://www.youtube.com/@itwalebhaiya
+### Twiiter : https://twitter.com/Sachins69358685
+### Instagram : https://www.instagram.com/ytsaxena/
 
 
 
