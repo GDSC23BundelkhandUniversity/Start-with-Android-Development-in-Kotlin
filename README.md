@@ -6,8 +6,11 @@ Please Find the PPT from Above (BUevent PPT) , also if you need help in the asss
 
 
 Kotlin Doc :  https://kotlinlang.org/docs/kotlin-tour-hello-world.html
+
 Kotlin (Cheezy Code) : https://www.youtube.com/watch?v=NosAkIKgA4Y&list=PLRKyZvuMYSIMW3-rSOGCkPlO1z_IYJy3G
+
 Kotlin and Setup Android Studio :  https://www.youtube.com/playlist?list=PL8mmlU1K4lucGWnp6LuK7gJs_Kq_qvsik
+
 Android Development Full Course 41 hrs :  https://www.youtube.com/watch?v=u64gyCdqawU 
 
 
