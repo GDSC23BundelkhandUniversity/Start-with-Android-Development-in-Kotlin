@@ -1,4 +1,6 @@
 # Start-with-Android-Development-in-Kotlin
+### ✨On the 3rd of October, the Google Developer Student Club_BU community gathered for an enlightening session that promised to transform our perspectives on Android development. We were privileged to host the 🌟distinguished speaker,[Sachin saxena](https://github.com/ytsaxena), whose industry experience served as a guiding light for all of us, from beginners to advanced enthusiasts.
+### Check out Youtube Channel of🎗️[Sachin saxena](https://github.com/ytsaxena) - [Youtube](https://www.youtube.com/@ITwalebhaiya)
 ![BUevent  pptx](https://github.com/GDSC23BundelkhandUniversity/Start-with-Android-Development-in-Kotlin/assets/114987574/d4583809-a37d-4ac6-b0d7-4cfd57038ba6)
 ![BUevent  pptx (1)](https://github.com/GDSC23BundelkhandUniversity/Start-with-Android-Development-in-Kotlin/assets/114987574/ed2c407c-d781-4108-8e2c-40d0bb9e1326)
 ![BUevent  pptx (2)](https://github.com/GDSC23BundelkhandUniversity/Start-with-Android-Development-in-Kotlin/assets/114987574/8ee0b3bc-cd40-42e4-b243-6c9ef5429fac)
